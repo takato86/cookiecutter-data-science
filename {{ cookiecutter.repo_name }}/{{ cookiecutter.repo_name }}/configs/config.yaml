@@ -1,0 +1,4 @@
+mlflow.experiment:
+  name: "lgbm"  # {leaderboard, rfc, lgbm, <model-name>}
+mlflow.run:
+  run_name: "model_type_classの追加、連続値の変換、occurence情報の追加、XORの追加、onehotエンコーディング"
